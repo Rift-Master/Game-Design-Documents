@@ -115,6 +115,30 @@
         <mxCell id="_XAY9S06tNCWLUlqe7ZU-4" value="Armadillo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-5" value="Mouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-6" value="Pig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-7" value="Warthog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-8" value="Aardvark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-9" value="Pangolin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-10" value="Hedgehog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-11" value="Chameleon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAY9S06tNCWLUlqe7ZU-12" value="Komodo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
