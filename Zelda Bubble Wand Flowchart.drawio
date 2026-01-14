@@ -185,6 +185,9 @@
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Do puzzle that rearranges pipes to shoot sticky potion at the water wheel that is spinning way too fast." vertex="1">
           <mxGeometry height="115" width="230" x="1060" y="925" as="geometry" />
         </mxCell>
+        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Get boss key early (this is a joke and only used for the mini boss room, you get the real boss key later)" vertex="1">
+          <mxGeometry height="115" width="230" x="980" y="525" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
