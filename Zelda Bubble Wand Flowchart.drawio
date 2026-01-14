@@ -179,6 +179,9 @@
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Combat with Poison bubbles that can be made easier with stealth and the fans." vertex="1">
           <mxGeometry height="115" width="230" x="714.64" y="670" as="geometry" />
         </mxCell>
+        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Do puzzle to rearrange pipes and help bounce bubble potion flow out the giant fan area that keeps blowing you away." vertex="1">
+          <mxGeometry height="115" width="230" x="1040" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
