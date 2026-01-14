@@ -189,13 +189,13 @@
           <mxGeometry height="115" width="230" x="980" y="525" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce a more difficult combat enemy" vertex="1">
-          <mxGeometry height="115" width="230" x="80" y="750" as="geometry" />
+          <mxGeometry height="115" width="230" x="50" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce an enemy that pops out of the water and eats Link.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Frog enemy that causes issues.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="230" x="310" y="750" as="geometry" />
+        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce an enemy that pops out of the water and eats Link.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Frog enemy that causes issues. (it shoots i&#39;s tongue out and eats link)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="230" x="60" y="825" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sentient Bubble ChuChu that if it pops near you, you get stuck." vertex="1">
-          <mxGeometry height="115" width="230" x="550" y="850" as="geometry" />
+          <mxGeometry height="115" width="230" x="50" y="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
