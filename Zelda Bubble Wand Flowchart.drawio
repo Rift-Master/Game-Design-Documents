@@ -564,7 +564,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Platforming challenge using all bubbles available to climb down it." vertex="1">
-          <mxGeometry height="103.67" width="215" x="1630" y="615.6700000000001" as="geometry" />
+          <mxGeometry height="103.67" width="215" x="1630" y="565.6600000000001" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-28" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="M4Nn0RCJXqtBndDG0bqR-27" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -576,7 +576,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Using the machine that makes a bubble shield, roll over and around the water outside the factory to enter in through the back to find the storage key" vertex="1">
-          <mxGeometry height="100" width="200" x="1360" y="617.5" as="geometry" />
+          <mxGeometry height="100" width="200" x="1370" y="579.33" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduce the concept of using the bubble wand to active small bubble gates to walk through" vertex="1">
           <mxGeometry height="100" width="210" x="1390" y="767.5" as="geometry" />
@@ -599,8 +599,8 @@
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Unlock the boss room.&amp;nbsp;&lt;div&gt;Defeat the boss.&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="171.85" x="1750" y="921.25" as="geometry" />
         </mxCell>
-        <mxCell id="M4Nn0RCJXqtBndDG0bqR-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Boss Mechanics&lt;div&gt;1. Force the boss into a giant bubble and make it float over a pit of spikes you drop it onto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reflect attacks back at the boss&lt;/div&gt;" vertex="1">
-          <mxGeometry height="135" width="340" x="1680" y="740" as="geometry" />
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Boss Mechanics&lt;div&gt;1. Force the boss into a giant bubble and make it float over a pit of spikes you drop it onto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reflect attacks back at the boss.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Leave Bubbles for the boss to swim into for extra damage.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Slowly get a chance to fix machines to kill the boss.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="340" x="1665.92" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
