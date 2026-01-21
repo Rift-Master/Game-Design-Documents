@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.3.2">
   <diagram name="ページ1" id="5gk8IRFVUfIFFmQtX6AI">
-    <mxGraphModel dx="1907" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,37 +8,16 @@
           <mxGeometry height="160" width="250" as="geometry" />
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Defeat Boss(End)" vertex="1">
-          <mxGeometry height="120" width="220" x="1360" y="1049" as="geometry" />
+          <mxGeometry height="120" width="220" x="1320" y="1046.5" as="geometry" />
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mini-boss Encounter 1&lt;div&gt;(Using Pipes and machines to fight)&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="139.29" x="4823" y="2.42" as="geometry" />
         </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-8" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1520" y="730" />
-              <mxPoint x="1520" y="740" />
-              <mxPoint x="1490" y="740" />
-              <mxPoint x="1490" y="777" />
-              <mxPoint x="1484" y="777" />
-              <mxPoint x="1484" y="1000" />
-              <mxPoint x="1478" y="1000" />
-              <mxPoint x="1478" y="1049" />
-            </Array>
-            <mxPoint x="1473.8250000000003" y="760" as="sourcePoint" />
-            <mxPoint x="1467.9" y="1048.9999999999998" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-5" edge="1" parent="1" source="LPM7TlBNq5Z_cZmShuCa-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="dsM6gaMFIVzCm3w_mpfv-110" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mini-boss Encounter 2&lt;div&gt;Using different bubble want tactics to fight.&lt;/div&gt;" vertex="1">
           <mxGeometry height="121.33" width="130" x="1550" y="402.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-10" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LPM7TlBNq5Z_cZmShuCa-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="830" y="740" />
-              <mxPoint x="980" y="740" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font&gt;Get Bubble Wand&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="134.29" x="4825.5" y="345" as="geometry" />
@@ -52,33 +31,20 @@
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Get the fake boss key&lt;/font&gt;" vertex="1">
           <mxGeometry height="200" width="200" x="2860" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce gum mechanic with a pipe puzzle you fix" vertex="1">
-          <mxGeometry height="115" width="230" x="1320" y="583.83" as="geometry" />
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-12" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="M4Nn0RCJXqtBndDG0bqR-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pipe Puzzle to mix and redirect the two big pipes together to make a third big pipe that’s the sticky bubble mixture. It clogs up the waterwheel" vertex="1">
+          <mxGeometry height="115" width="230" x="1890" y="610" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Show you need to use a bubble wand to catch a small enemy with a key to leave the room" vertex="1">
           <mxGeometry height="115" width="230" x="4727.29" y="535" as="geometry" />
         </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-13" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" target="vnFnj_5k2G7u5xKCNZ4y-5" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1392" y="728" />
-            </Array>
-            <mxPoint x="1220.000780029264" y="777.5022687544084" as="sourcePoint" />
-            <mxPoint x="1404.0719334529338" y="692.4974174630069" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font&gt;Make the Waterwheel Stick so you can climb down it&lt;/font&gt;" vertex="1">
-          <mxGeometry height="160" width="171.85" x="1290" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-15" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" target="LPM7TlBNq5Z_cZmShuCa-16" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1220" y="721" as="sourcePoint" />
-            <mxPoint x="1402" y="728" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Get the boss key!" vertex="1">
+          <mxGeometry height="160" width="171.85" x="1081.0000000000002" y="910" as="geometry" />
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Make Giant Bubbles to Jump on to Reach the Outdoor Waterwheel" vertex="1">
-          <mxGeometry height="115" width="120" x="2068" y="399.5" as="geometry" />
+          <mxGeometry height="115" width="120" x="2190" y="595" as="geometry" />
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce new Enemy that is spikey and pops a left over jelly bubble." vertex="1">
           <mxGeometry height="95" width="190" x="650" as="geometry" />
@@ -102,9 +68,6 @@
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Redirecting Shots using the bounce bubbles and the bubble wand" vertex="1">
           <mxGeometry height="115" width="230" x="2195" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add the ability to mix the Sticky Bubbles" vertex="1">
-          <mxGeometry height="115" width="230" x="1630" y="760" as="geometry" />
-        </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Simple Puzzle Sticky Bubbles" vertex="1">
           <mxGeometry height="115" width="230" x="1880" y="910" as="geometry" />
         </mxCell>
@@ -112,19 +75,16 @@
           <mxGeometry height="115" width="230" x="2180" y="760" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Combat using the sticky Bubbles" vertex="1">
-          <mxGeometry height="115" width="230" x="1640" y="925" as="geometry" />
+          <mxGeometry height="115" width="230" x="1570" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-19" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vnFnj_5k2G7u5xKCNZ4y-31" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add option to mix the poison bubbles and hint at making the health bubbles" vertex="1">
-          <mxGeometry height="115" width="230" x="1910" y="760" as="geometry" />
+          <mxGeometry height="115" width="230" x="1046" y="610.01" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Combat with Poison bubbles that can be made easier with stealth and the fans." vertex="1">
-          <mxGeometry height="115" width="230" x="620" y="625" as="geometry" />
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Do puzzle to rearrange pipes and help bounce bubble potion flow out the giant fan area that keeps blowing you away." vertex="1">
-          <mxGeometry height="115" width="230" x="1040" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Do puzzle that rearranges pipes to shoot sticky potion at the water wheel that is spinning way too fast." vertex="1">
-          <mxGeometry height="115" width="230" x="1060" y="925" as="geometry" />
+          <mxGeometry height="115" width="230" x="1050" y="760" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Get boss key early (this is a joke and only used for the mini boss room, you get the real boss key later)" vertex="1">
           <mxGeometry height="115" width="230" x="3100" y="180" as="geometry" />
@@ -133,10 +93,10 @@
           <mxGeometry height="115" width="230" x="50" y="710" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce an enemy that pops out of the water and eats Link.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Frog enemy that causes issues. (it shoots i&#39;s tongue out and eats link)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="230" x="60" y="825" as="geometry" />
+          <mxGeometry height="115" width="230" x="30" y="845" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sentient Bubble ChuChu that if it pops near you, you get stuck." vertex="1">
-          <mxGeometry height="115" width="230" x="50" y="940" as="geometry" />
+          <mxGeometry height="115" width="230" x="30" y="980" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Navigating the difficult platforming room and it becomes so much easier to do with the bubble wand." vertex="1">
           <mxGeometry height="115" width="230" x="340" y="585" as="geometry" />
@@ -149,9 +109,6 @@
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introducing switches and the richochet bubble" vertex="1">
           <mxGeometry height="115" width="230" x="597" y="1051.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dsM6gaMFIVzCm3w_mpfv-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introducing introducing mixing mixtures together and the sticky bubble" vertex="1">
-          <mxGeometry height="115" width="230" x="600" y="785" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Big Cauldron Set Piece to Mix things with" vertex="1">
           <mxGeometry height="115" width="230" x="840" y="1049" as="geometry" />
@@ -546,7 +503,7 @@
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Go down a large hallway using all kniown mechanics thus far to naviagatie while also making sure both mixtures of bounce bubbles and ricochet bubbles head in the same direction" vertex="1">
           <mxGeometry height="115" width="240" x="360" y="412" as="geometry" />
         </mxCell>
-        <mxCell id="dsM6gaMFIVzCm3w_mpfv-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Teach that mixing two bubbles together make the third (sticky bubble)" vertex="1">
+        <mxCell id="dsM6gaMFIVzCm3w_mpfv-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Teach that mixing two bubbles together make the third (sticky bubble). Using puddles and pipes.&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;&amp;nbsp;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20edge%3D%221%22%20parent%3D%221%22%20style%3D%22edgeStyle%3Dnone%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3Brounded%3D0%3BfontSize%3D12%3BstartSize%3D8%3BendSize%3D8%3Bcurved%3D1%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20value%3D%22%22%3E%3CmxGeometry%20relative%3D%221%22%20width%3D%22120%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%2F%3E%3CmxPoint%20x%3D%22230%22%20y%3D%22470%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22360%22%20y%3D%22470%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphMod&lt;/span&gt;" vertex="1">
           <mxGeometry height="115" width="240" x="650" y="412" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Pool where the sticky bubble mixture can be made" vertex="1">
@@ -555,28 +512,74 @@
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Simple progression puzzle using sticky bubbles" vertex="1">
           <mxGeometry height="115" width="240" x="1250" y="418.08" as="geometry" />
         </mxCell>
-        <mxCell id="dsM6gaMFIVzCm3w_mpfv-111" edge="1" parent="1" source="LPM7TlBNq5Z_cZmShuCa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" target="dsM6gaMFIVzCm3w_mpfv-110" value="">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="dsM6gaMFIVzCm3w_mpfv-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Redirect the pipe with big bouncy bubble fluid to the machine. Use sticky bubbles to fix the bubble gate." vertex="1">
+          <mxGeometry height="115" width="220" x="1760" y="402.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-1" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-106" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dsM6gaMFIVzCm3w_mpfv-107" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
             <Array as="points" />
-            <mxPoint x="1680" y="463" as="sourcePoint" />
-            <mxPoint x="2069" y="463" as="targetPoint" />
+            <mxPoint x="240" y="480" as="sourcePoint" />
+            <mxPoint x="370" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dsM6gaMFIVzCm3w_mpfv-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Redirect the pipe with big bouncy bubble fluid to the machine. Use sticky bubbles to fix the bubble gate." vertex="1">
-          <mxGeometry height="115" width="240" x="1740" y="402.5" as="geometry" />
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-2" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-107" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dsM6gaMFIVzCm3w_mpfv-108" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="610" y="480" as="sourcePoint" />
+            <mxPoint x="910" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dsM6gaMFIVzCm3w_mpfv-112" edge="1" parent="1" source="LPM7TlBNq5Z_cZmShuCa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" target="vnFnj_5k2G7u5xKCNZ4y-22" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1220" y="724" />
-              <mxPoint x="1392" y="721" />
-            </Array>
-            <mxPoint x="2188" y="457" as="sourcePoint" />
-            <mxPoint x="1292" y="898" as="targetPoint" />
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-3" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-108" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dsM6gaMFIVzCm3w_mpfv-109" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="620" y="490" as="sourcePoint" />
+            <mxPoint x="670" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-4" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-109" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LPM7TlBNq5Z_cZmShuCa-6" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="630" y="500" as="sourcePoint" />
+            <mxPoint x="680" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-7" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-22" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="LPM7TlBNq5Z_cZmShuCa-16" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2020" y="480" as="sourcePoint" />
+            <mxPoint x="2070" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-8" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-110" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vnFnj_5k2G7u5xKCNZ4y-22" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1980" y="460" as="sourcePoint" />
+            <mxPoint x="2207" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Engaging way for players to reach the section to jump on the bubbles and head outside to the water wheel." vertex="1">
-          <mxGeometry height="115" width="230" x="2068" y="538.1700000000001" as="geometry" />
+          <mxGeometry height="110" width="230" x="2040" y="425.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-15" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="M4Nn0RCJXqtBndDG0bqR-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Platforming challenge using all bubbles available to climb down it." vertex="1">
+          <mxGeometry height="103.67" width="215" x="1630" y="615.6700000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Enter a storage room that’s behind the fan." vertex="1">
+          <mxGeometry height="82.5" width="176" x="1307" y="947.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-16" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vnFnj_5k2G7u5xKCNZ4y-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Using the machine that makes a bubble shield, roll over and around the water outside the factory to enter in through the back to find the storage key" vertex="1">
+          <mxGeometry height="100" width="200" x="1360" y="617.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduce the concept of using the bubble wand to active small bubble gates to walk through" vertex="1">
+          <mxGeometry height="100" width="210" x="1400" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-21" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Lore notes:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Areas: Security Center, Mixing Room, Storage Room, Lunch Room, Research Development, Room with Chemical Vats, Ventilation, Bosses Room (as in an office), Elevator.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reception. Restricted Access. Bathroom (link needs to get flushed down a pool to get to a different floor.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="460" width="540" x="2805" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
