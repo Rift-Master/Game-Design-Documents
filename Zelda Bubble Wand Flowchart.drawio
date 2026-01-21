@@ -111,7 +111,7 @@
           <mxGeometry height="115" width="230" x="597" y="1051.5" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Big Cauldron Set Piece to Mix things with" vertex="1">
-          <mxGeometry height="115" width="230" x="840" y="1049" as="geometry" />
+          <mxGeometry height="115" width="230" x="870" y="1049" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-17" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-19" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LPM7TlBNq5Z_cZmShuCa-15" value="">
           <mxGeometry relative="1" width="120" as="geometry">
@@ -580,6 +580,12 @@
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-21" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Lore notes:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Areas: Security Center, Mixing Room, Storage Room, Lunch Room, Research Development, Room with Chemical Vats, Ventilation, Bosses Room (as in an office), Elevator.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reception. Restricted Access. Bathroom (link needs to get flushed down a pool to get to a different floor.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freezer (Can’t use bubbles. Foreshadowing for an ice area?)&lt;/div&gt;" vertex="1">
           <mxGeometry height="460" width="540" x="2805" y="679" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mechanics list:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Pipes&lt;/div&gt;&lt;div&gt;2. Fans&lt;/div&gt;&lt;div&gt;3. Switches&lt;/div&gt;&lt;div&gt;4. Turning sitches&lt;/div&gt;&lt;div&gt;5. Bubble making gates&lt;/div&gt;&lt;div&gt;6. Rivers and water flow.&lt;/div&gt;&lt;div&gt;7. Bubble Wand&lt;/div&gt;&lt;div&gt;8. Richo&lt;span style=&quot;white-space: pre;&quot;&gt;chet Bubbles&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;9. Sticky Bubbles&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;10. Puddles?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="450" width="530" x="3375" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Enemy list:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Small Enemies that can steal and be captured&lt;/div&gt;&lt;div&gt;2. Rhino porcupines that pop bubbles.&lt;/div&gt;&lt;div&gt;3. Floating chu chus made of sticky bubbles that cause you to get stuck if they pop by you.&lt;/div&gt;&lt;div&gt;4. Blowfish&lt;/div&gt;&lt;div&gt;5. Bats that fly in certain directions (and can be captured with the bubble wand.)&lt;/div&gt;&lt;div&gt;6. Combat enemy that&amp;nbsp;&lt;/div&gt;&lt;div&gt;7. Swimming Enemy that attacks in water.&lt;/div&gt;&lt;div&gt;8. Enemy that focuses on popping bubbles.&lt;/div&gt;&lt;div&gt;9. Frog enemies that constantly try to eat Link (can be clogged up by sticky bubbles and can’t attack)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="448.75" width="448.75" x="4010" y="685.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
