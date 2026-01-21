@@ -7,8 +7,8 @@
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Entrance&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;(Beginning)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="250" as="geometry" />
         </mxCell>
-        <mxCell id="LPM7TlBNq5Z_cZmShuCa-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Defeat Boss(End)" vertex="1">
-          <mxGeometry height="120" width="220" x="1320" y="1046.5" as="geometry" />
+        <mxCell id="LPM7TlBNq5Z_cZmShuCa-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Boss Defeated&lt;div&gt;(End)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="220" x="2040" y="941.25" as="geometry" />
         </mxCell>
         <mxCell id="LPM7TlBNq5Z_cZmShuCa-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mini-boss Encounter 1&lt;div&gt;(Using Pipes and machines to fight)&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="139.29" x="4823" y="2.42" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry height="230" width="246.44" x="280" y="910" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Introduce an enemy that fires spikes" vertex="1">
-          <mxGeometry height="115" width="230" x="50" y="595" as="geometry" />
+          <mxGeometry height="115" width="230" x="50" y="569" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Get the fake boss key&lt;/font&gt;" vertex="1">
           <mxGeometry height="200" width="200" x="2860" y="140" as="geometry" />
@@ -35,10 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pipe Puzzle to mix and redirect the two big pipes together to make a third big pipe that’s the sticky bubble mixture. It clogs up the waterwheel" vertex="1">
-          <mxGeometry height="115" width="230" x="1890" y="615.67" as="geometry" />
+          <mxGeometry height="115" width="230" x="1900" y="560" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Show you need to use a bubble wand to catch a small enemy with a key to leave the room" vertex="1">
           <mxGeometry height="115" width="230" x="4727.29" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-26" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="M4Nn0RCJXqtBndDG0bqR-13" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Get the boss key!" vertex="1">
           <mxGeometry height="160" width="171.85" x="1081.0000000000002" y="910" as="geometry" />
@@ -68,17 +71,8 @@
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Progression puzzle using only richochet bubbles" vertex="1">
           <mxGeometry height="115" width="230" x="270" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Redirecting Shots using the bounce bubbles and the bubble wand" vertex="1">
-          <mxGeometry height="115" width="230" x="2195" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Simple Puzzle Sticky Bubbles" vertex="1">
-          <mxGeometry height="115" width="230" x="1880" y="910" as="geometry" />
-        </mxCell>
-        <mxCell id="vnFnj_5k2G7u5xKCNZ4y-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Advanced Puzzle Sticky Bubbles" vertex="1">
-          <mxGeometry height="115" width="230" x="2180" y="760" as="geometry" />
-        </mxCell>
         <mxCell id="vnFnj_5k2G7u5xKCNZ4y-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Combat using the sticky Bubbles" vertex="1">
-          <mxGeometry height="115" width="230" x="1570" y="910" as="geometry" />
+          <mxGeometry height="115" width="230" x="610" y="740" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-19" edge="1" parent="1" source="vnFnj_5k2G7u5xKCNZ4y-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vnFnj_5k2G7u5xKCNZ4y-31" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -105,10 +99,10 @@
           <mxGeometry height="115" width="230" x="30" y="980" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Navigating the difficult platforming room and it becomes so much easier to do with the bubble wand." vertex="1">
-          <mxGeometry height="115" width="230" x="340" y="585" as="geometry" />
+          <mxGeometry height="115" width="230" x="320" y="595" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A basic jump puzzle after turning on the bounce bubble pipe" vertex="1">
-          <mxGeometry height="115" width="230" x="358.22" y="740" as="geometry" />
+          <mxGeometry height="115" width="230" x="320" y="719.34" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A basic jump bubble puzzle after turning that requires the use of the fan" vertex="1">
           <mxGeometry height="115" width="230" x="600" y="915" as="geometry" />
@@ -117,7 +111,7 @@
           <mxGeometry height="115" width="230" x="597" y="1051.5" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Big Cauldron Set Piece to Mix things with" vertex="1">
-          <mxGeometry height="115" width="230" x="870" y="1049" as="geometry" />
+          <mxGeometry height="115" width="230" x="600" y="595" as="geometry" />
         </mxCell>
         <mxCell id="dsM6gaMFIVzCm3w_mpfv-17" edge="1" parent="1" source="dsM6gaMFIVzCm3w_mpfv-19" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LPM7TlBNq5Z_cZmShuCa-15" value="">
           <mxGeometry relative="1" width="120" as="geometry">
@@ -572,8 +566,11 @@
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Platforming challenge using all bubbles available to climb down it." vertex="1">
           <mxGeometry height="103.67" width="215" x="1630" y="615.6700000000001" as="geometry" />
         </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-28" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="M4Nn0RCJXqtBndDG0bqR-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Enter a storage room that’s behind the fan." vertex="1">
-          <mxGeometry height="82.5" width="176" x="1307" y="947.5" as="geometry" />
+          <mxGeometry height="82.5" width="176" x="1424" y="960" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-16" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vnFnj_5k2G7u5xKCNZ4y-30" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -582,7 +579,7 @@
           <mxGeometry height="100" width="200" x="1360" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduce the concept of using the bubble wand to active small bubble gates to walk through" vertex="1">
-          <mxGeometry height="100" width="210" x="1400" y="780" as="geometry" />
+          <mxGeometry height="100" width="210" x="1390" y="767.5" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-21" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Lore notes:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Areas: Security Center, Mixing Room, Storage Room, Lunch Room, Research Development, Room with Chemical Vats, Ventilation, Bosses Room (as in an office), Elevator.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reception. Restricted Access. Bathroom (link needs to get flushed down a pool to get to a different floor.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freezer (Can’t use bubbles. Foreshadowing for an ice area?)&lt;/div&gt;" vertex="1">
           <mxGeometry height="460" width="540" x="2805" y="679" as="geometry" />
@@ -591,7 +588,19 @@
           <mxGeometry height="450" width="530" x="3375" y="684" as="geometry" />
         </mxCell>
         <mxCell id="M4Nn0RCJXqtBndDG0bqR-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Enemy list:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Small Enemies that can steal and be captured&lt;/div&gt;&lt;div&gt;2. Rhino porcupines that pop bubbles.&lt;/div&gt;&lt;div&gt;3. Floating chu chus made of sticky bubbles that cause you to get stuck if they pop by you.&lt;/div&gt;&lt;div&gt;4. Blowfish&lt;/div&gt;&lt;div&gt;5. Bats that fly in certain directions (and can be captured with the bubble wand.)&lt;/div&gt;&lt;div&gt;6. Combat enemy that&amp;nbsp;&lt;/div&gt;&lt;div&gt;7. Swimming Enemy that attacks in water.&lt;/div&gt;&lt;div&gt;8. Enemy that focuses on popping bubbles.&lt;/div&gt;&lt;div&gt;9. Frog enemies that constantly try to eat Link (can be clogged up by sticky bubbles and can’t attack)&lt;/div&gt;&lt;div&gt;10. Robot enemies that try and return the puzzles you solve to their original state.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="448.75" width="448.75" x="4030" y="690.25" as="geometry" />
+          <mxGeometry height="448.75" width="448.75" x="4040" y="698.83" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-29" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="LPM7TlBNq5Z_cZmShuCa-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-31" edge="1" parent="1" source="M4Nn0RCJXqtBndDG0bqR-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="M4Nn0RCJXqtBndDG0bqR-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Unlock the boss room.&amp;nbsp;&lt;div&gt;Defeat the boss.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="171.85" x="1750" y="921.25" as="geometry" />
+        </mxCell>
+        <mxCell id="M4Nn0RCJXqtBndDG0bqR-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Boss Mechanics&lt;div&gt;1. Force the boss into a giant bubble and make it float over a pit of spikes you drop it onto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reflect attacks back at the boss&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="340" x="1680" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
