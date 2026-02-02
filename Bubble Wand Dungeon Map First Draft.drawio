@@ -159,7 +159,7 @@
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Add Option for multiple possible paths here to improve exploration" vertex="1">
           <mxGeometry height="100" width="170" x="-690" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="VEHgNk_dYbkTDM_UZs3S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pipe Puzzle where orientatio" vertex="1">
+        <mxCell id="VEHgNk_dYbkTDM_UZs3S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pipe Puzzle where orientation leads to a different room" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="490" as="geometry" />
         </mxCell>
         <mxCell id="VEHgNk_dYbkTDM_UZs3S-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to falling platorms (given 2 directions to move)" vertex="1">
