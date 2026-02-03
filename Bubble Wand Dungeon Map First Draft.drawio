@@ -321,7 +321,7 @@
           <mxGeometry height="190" width="340" x="-437" y="720" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Bubble Puzzle that involves Redirecting Pipes&lt;/u&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="-260" y="720" as="geometry" />
+          <mxGeometry height="80" width="160" x="-257" y="720" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Puzzle to Show how to make sticky bubbles&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-250" y="610" as="geometry" />
@@ -473,7 +473,7 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Add this in" vertex="1">
           <mxGeometry height="66" width="140" x="744" y="336" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Long Hallway for bouncing off giant bubbles" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Long Hallway for bouncing off giant bubbles (Ignorable for 2nd Floor)" vertex="1">
           <mxGeometry height="80" width="340" x="114" y="1042" as="geometry" />
         </mxCell>
       </root>
