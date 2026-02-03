@@ -335,8 +335,11 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Elevator Between Floor 1 and 2" vertex="1">
           <mxGeometry height="80" width="160" x="-70" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Behind the Boss Room&lt;div&gt;(Boss Key)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="590" as="geometry" />
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fake boss Key" vertex="1">
+          <mxGeometry height="80" width="160" x="114" y="606" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-79" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-78" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Room where the two bubble Chemicals mix together to make the Sticky Mixture" vertex="1">
           <mxGeometry height="80" width="160" x="-250" y="490" as="geometry" />
@@ -347,11 +350,11 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Platforming Bouncing Bubble Puzzle (Introduces Richochet Puzzle at the end)&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-250" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Long Hallway to Jump Back and Forth made easier with bubble wand" vertex="1">
-          <mxGeometry height="310" width="160" x="-77" y="485" as="geometry" />
-        </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redirecting Fan Puzzle 1&lt;div&gt;(Key for Long Hallway)&lt;/div&gt;" vertex="1">
           <mxGeometry height="82.5" width="160" x="-630" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-73" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-40" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simple Richochet Puzzle Room" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="370" as="geometry" />
@@ -390,18 +393,20 @@
             <mxPoint x="-70" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-34" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-15" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-24" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="90" y="880" as="sourcePoint" />
-            <mxPoint x="210" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Combat Challenges followed by simple Pipe Puzzle&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-437" y="830" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Slide Connection" vertex="1">
           <mxGeometry height="80" width="160" x="-80" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-75" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-76" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-77" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-39" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Room with Richochet Mixture to send to other rooms&lt;/u&gt;&lt;div&gt;&lt;u&gt;(Geysers up to room above?)&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="490" as="geometry" />
@@ -409,28 +414,17 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Introduction to falling platorms (given 2 directions to move)&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="612.5" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Pipe Puzzle with Richochet Blob Sollution&lt;/u&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="-630" y="370" as="geometry" />
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-74" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-27" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-42" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-27" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-40" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="20" y="720" as="sourcePoint" />
-            <mxPoint x="140" y="720" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pipe Puzzle with Richochet Blob Sollution" vertex="1">
+          <mxGeometry height="80" width="160" x="-627" y="370" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-43" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-39" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-25" value="">
           <mxGeometry relative="1" width="120" as="geometry">
             <Array as="points" />
             <mxPoint x="420" y="770" as="sourcePoint" />
             <mxPoint x="570" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-45" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-38" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-26" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="440" y="790" as="sourcePoint" />
-            <mxPoint x="590" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-51" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-39" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-15" value="">
@@ -474,7 +468,10 @@
           <mxGeometry height="66" width="140" x="744" y="336" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Long Hallway for bouncing off giant bubbles (Ignorable for 2nd Floor)" vertex="1">
-          <mxGeometry height="80" width="340" x="114" y="1042" as="geometry" />
+          <mxGeometry height="80" width="340" x="114" y="1043" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to Divert previous picture below" vertex="1">
+          <mxGeometry height="80" width="160" x="-70" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
