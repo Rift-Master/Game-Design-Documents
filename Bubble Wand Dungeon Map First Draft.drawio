@@ -285,7 +285,7 @@
           <mxGeometry height="80" width="160" x="-260" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Locked Door&lt;/u&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;(Bellow)&lt;/u&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="-260" y="940" as="geometry" />
+          <mxGeometry height="80" width="160" x="-263" y="950" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to Pipes and Filtration" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="1040" as="geometry" />
