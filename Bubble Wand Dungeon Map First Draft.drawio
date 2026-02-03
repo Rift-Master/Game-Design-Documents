@@ -268,7 +268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XG1QH4YMuowNQQml_kx5" name="2nd Floor">
-    <mxGraphModel dx="1944" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,49 +278,28 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Water Slide Down.&lt;div&gt;(Boss Room hinted below)&lt;/div&gt;" vertex="1">
           <mxGeometry height="310" width="340" x="114" y="715" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entrance&lt;div&gt;(Reception)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="-80" y="1040" as="geometry" />
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entrance&lt;div&gt;(Reception) (Below)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-80" y="1038" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Simple Enemy Encounter Hall Way&lt;/u&gt;" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="-260" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Locked Door&lt;/u&gt;" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Locked Door&lt;/u&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;(Bellow)&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-260" y="940" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to Pipes and Filtration" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to Pipes and Filtration" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Harder Pipe Puzzle than Before&lt;/u&gt;" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="940" as="geometry" />
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-9" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-2" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-3" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-110" y="1120" as="sourcePoint" />
-            <mxPoint x="10" y="1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-10" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-3" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-7" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-110" y="1120" as="sourcePoint" />
-            <mxPoint x="10" y="1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-11" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-5" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vGqkC-DNC5OJXEhgjryR-3" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-110" y="1120" as="sourcePoint" />
-            <mxPoint x="10" y="1120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pool Below" vertex="1">
           <mxGeometry height="190" width="340" x="-437" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle that introduces sticky bubbles" vertex="1">
           <mxGeometry height="80" width="160" x="-257" y="720" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-81" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-22" value="">
@@ -365,34 +344,13 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Simple Bubble Puzzle&lt;/u&gt;&lt;div&gt;&lt;u&gt;(That’s interesting to move in both ways. Maybe it gets flooded?)&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-630" y="496" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-28" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-7" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-8" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="370" y="720" as="sourcePoint" />
-            <mxPoint x="520" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-29" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-15" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-5" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="380" y="730" as="sourcePoint" />
-            <mxPoint x="530" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-30" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-8" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="vGqkC-DNC5OJXEhgjryR-15" value="">
-          <mxGeometry relative="1" width="120" as="geometry">
-            <Array as="points" />
-            <mxPoint x="390" y="740" as="sourcePoint" />
-            <mxPoint x="540" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Stairs up&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-80" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Combat Challenges followed by simple Pipe Puzzle&lt;/u&gt;" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Bubble Puzzle Reminder&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-437" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Slide Connection" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle that uses both" vertex="1">
           <mxGeometry height="80" width="160" x="-80" y="830" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-75" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-27" value="">
@@ -450,7 +408,7 @@
           <mxGeometry height="66" width="140" x="744" y="336" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Giant Fan Spinning Hallway" vertex="1">
-          <mxGeometry height="80" width="198" x="114" y="1043" as="geometry" />
+          <mxGeometry height="80" width="337" x="116" y="1092" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to Divert previous rooms sticky bubble mixture below" vertex="1">
           <mxGeometry height="80" width="160" x="-70" y="490" as="geometry" />
@@ -459,13 +417,10 @@
           <mxGeometry height="80" width="160" x="296" y="715" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combat Challenge with Richochet Bubbles" vertex="1">
-          <mxGeometry height="80" width="160" x="-440" y="720" as="geometry" />
+          <mxGeometry height="80" width="160" x="-437" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle that uses both Richochet and Bouncey Bubbles" vertex="1">
           <mxGeometry height="80" width="160" x="-257" y="830" as="geometry" />
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="-712" y="816" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sticky Bubble Rebuilding Puzzle to Ascend to the 3rd Floor" vertex="1">
           <mxGeometry height="80" width="344" x="110" y="610" as="geometry" />
@@ -474,7 +429,16 @@
           <mxGeometry height="80" width="164" x="290" y="945" as="geometry" />
         </mxCell>
         <mxCell id="rSUGWSTySAm8FVGtyjtD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle using Bubble wand to Fix a Pipe system so giant fan creates huge bubbles" vertex="1">
-          <mxGeometry height="80" width="160" x="294" y="1043" as="geometry" />
+          <mxGeometry height="80" width="160" x="292" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUGWSTySAm8FVGtyjtD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fan Platforming Challenge" vertex="1">
+          <mxGeometry height="80" width="160" x="116" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUGWSTySAm8FVGtyjtD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to dodge moving Machinery" vertex="1">
+          <mxGeometry height="80" width="160" x="-75" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUGWSTySAm8FVGtyjtD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Moving Machinery AND Richochet Bubbles" vertex="1">
+          <mxGeometry height="80" width="160" x="-75" y="608.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
