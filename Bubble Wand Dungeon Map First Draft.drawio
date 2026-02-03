@@ -365,7 +365,7 @@
           <mxGeometry height="80" width="160" x="-250" y="370" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Long Hallway to Jump Back and Forth made easier with bubble wand" vertex="1">
-          <mxGeometry height="310" width="160" x="-70" y="490" as="geometry" />
+          <mxGeometry height="310" width="160" x="-77" y="485" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redirecting Fan Puzzle 1&lt;div&gt;(Key for Long Hallway)&lt;/div&gt;" vertex="1">
           <mxGeometry height="82.5" width="160" x="-630" y="610" as="geometry" />
@@ -534,7 +534,7 @@
           <mxGeometry height="80" width="160" x="389" y="510" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stairs Up" vertex="1">
-          <mxGeometry height="80" width="160" x="575" y="510" as="geometry" />
+          <mxGeometry height="80" width="160" x="575" y="514" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
