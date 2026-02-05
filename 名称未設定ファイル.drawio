@@ -205,14 +205,17 @@
         <mxCell id="GjoLzm4whzNfNQgMhOEi-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Explanation" vertex="1">
           <mxGeometry height="80" width="160" x="630" y="1750" as="geometry" />
         </mxCell>
-        <mxCell id="GjoLzm4whzNfNQgMhOEi-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Image or Link to&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="200" x="367.5" y="1740" as="geometry" />
+        <mxCell id="GjoLzm4whzNfNQgMhOEi-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Image or Link to Document" vertex="1">
+          <mxGeometry height="140" width="160" x="510" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="GjoLzm4whzNfNQgMhOEi-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Individual Work Pages where you can interact" vertex="1">
           <mxGeometry height="80" width="160" x="294" y="1480" as="geometry" />
         </mxCell>
-        <mxCell id="GjoLzm4whzNfNQgMhOEi-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Always Show the Most Recent Work" vertex="1">
-          <mxGeometry height="80" width="160" x="130" y="1600" as="geometry" />
+        <mxCell id="GjoLzm4whzNfNQgMhOEi-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Always Show the Most Recent Work for Dedicated Pages" vertex="1">
+          <mxGeometry height="80" width="160" x="70" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="fq3rifPRuD8jB4PtJG7p-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Always have a recommended art piece up." vertex="1">
+          <mxGeometry height="80" width="160" x="134" y="1780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
