@@ -297,8 +297,14 @@
         <mxCell id="fq3rifPRuD8jB4PtJG7p-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Models that wear the clothes I design" vertex="1">
           <mxGeometry height="110" width="150" x="1005" y="940" as="geometry" />
         </mxCell>
+        <mxCell id="fq3rifPRuD8jB4PtJG7p-37" edge="1" parent="1" source="fq3rifPRuD8jB4PtJG7p-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="fq3rifPRuD8jB4PtJG7p-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fq3rifPRuD8jB4PtJG7p-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Start with an important individual page and then grow out from there." vertex="1">
-          <mxGeometry height="80" width="160" x="840" y="1440" as="geometry" />
+          <mxGeometry height="80" width="160" x="730" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="fq3rifPRuD8jB4PtJG7p-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Make the group page to just link to all appropriate pages" vertex="1">
+          <mxGeometry height="80" width="160" x="960" y="1450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
