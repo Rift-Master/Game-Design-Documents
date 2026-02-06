@@ -419,6 +419,9 @@
         <mxCell id="rSUGWSTySAm8FVGtyjtD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle using Bubble wand to Fix a Pipe system so giant fan creates huge bubbles" vertex="1">
           <mxGeometry height="80" width="160" x="292" y="1040" as="geometry" />
         </mxCell>
+        <mxCell id="4eV0y22sUA1v-FuyI8Eh-1" edge="1" parent="1" source="rSUGWSTySAm8FVGtyjtD-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rSUGWSTySAm8FVGtyjtD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fan Platforming Challenge" vertex="1">
           <mxGeometry height="80" width="160" x="116" y="1040" as="geometry" />
         </mxCell>
@@ -431,11 +434,14 @@
         <mxCell id="onRvmvor4adT-Xgw70-3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="????" vertex="1">
           <mxGeometry height="80" width="160" x="110" y="490" as="geometry" />
         </mxCell>
+        <mxCell id="1XQSFArxVKXrhVD5N5IY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Use Richochet Bubbles to Burst a Pipe and make a geyser up" vertex="1">
+          <mxGeometry height="151" width="123" x="-578" y="746" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="KM2FwEeRWLSpxyGYF6rC" name="3rd Floor">
-    <mxGraphModel dx="387" dy="501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,7 +467,7 @@
           <mxGeometry height="80" width="160" x="594" y="752" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="594" y="652" as="geometry" />
+          <mxGeometry height="80" width="160" x="597" y="647" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pool Below" vertex="1">
           <mxGeometry height="190" width="340" x="597" y="432" as="geometry" />
@@ -481,20 +487,35 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reminder of Richochet Bubbles with dodging automatic canons using the bounce bubbles" vertex="1">
           <mxGeometry height="80" width="160" x="784" y="202" as="geometry" />
         </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-4" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="82.5" width="160" x="404" y="320.75" as="geometry" />
+        </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-1" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-34" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="594" y="82" as="geometry" />
         </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-3" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="407" y="213" as="geometry" />
         </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-8" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="597" y="542" as="geometry" />
+          <mxGeometry height="80" width="160" x="594" y="542" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="970" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-2" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-24" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="407" y="82" as="geometry" />
@@ -589,23 +610,41 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="964" y="652" as="geometry" />
         </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-5" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-6" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="598" y="323.25" as="geometry" />
         </mxCell>
         <mxCell id="acj-GW1QuUsDgrYQeVnU-8" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-22" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ENslB9-tO8t64q9p4xAo-1" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Room that Requires Ricochet Bubble mixture to continue&lt;div&gt;(Opens route to Elevator)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="784" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-7" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-78" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="594" y="432" as="geometry" />
+          <mxGeometry height="80" width="160" x="598" y="432" as="geometry" />
         </mxCell>
         <mxCell id="acj-GW1QuUsDgrYQeVnU-2" edge="1" parent="1" source="acj-GW1QuUsDgrYQeVnU-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-45" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acj-GW1QuUsDgrYQeVnU-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Redirection Puzzle that uses the bubble wand.&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="1158" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="ENslB9-tO8t64q9p4xAo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reubgoldberg Ricochet Puzzle (that requires pipe and switch flipping)" vertex="1">
+          <mxGeometry height="80" width="171" x="136" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="JmhSMOLRj7OO7PKkp4mp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combat Encounters that can be finished in one go if Ricochet Bubbles are arranged in the right way" vertex="1">
+          <mxGeometry height="80" width="160" x="141.5" y="251" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
