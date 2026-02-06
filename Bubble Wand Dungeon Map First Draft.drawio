@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.3.6" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.3.7" pages="4">
   <diagram name="1st Floor" id="nqetl4J-ewGsVW07dvhG">
-    <mxGraphModel dx="2461" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1732" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pool" vertex="1">
           <mxGeometry height="190" width="340" x="-440" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Bubble Puzzle that involves Redirecting Pipes&lt;/u&gt;" vertex="1">
+        <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Bubble Puzzle that involves Redirecting Pipes&lt;/u&gt;&lt;div&gt;&lt;u&gt;(Pipe Lights up when Elevator 3 is ready)&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-260" y="720" as="geometry" />
         </mxCell>
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Introduction to Fans&lt;/u&gt;" vertex="1">
@@ -94,7 +94,7 @@
           <mxGeometry height="80" width="160" x="-250" y="370" as="geometry" />
         </mxCell>
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Long Hallway to Jump Back and Forth made easier with bubble wand" vertex="1">
-          <mxGeometry height="310" width="160" x="-70" y="490" as="geometry" />
+          <mxGeometry height="310" width="160" x="-70" y="485" as="geometry" />
         </mxCell>
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redirecting Fan Puzzle 1&lt;div&gt;(Key for Long Hallway)&lt;/div&gt;" vertex="1">
           <mxGeometry height="82.5" width="160" x="-630" y="610" as="geometry" />
@@ -153,8 +153,11 @@
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Combat Challenges followed by simple Pipe Puzzle&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="830" as="geometry" />
         </mxCell>
+        <mxCell id="C8kIcVEhD9vtM-aGndLy-1" edge="1" parent="1" source="3fhuuDvJ9jj6K0lCe0Sk-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="3fhuuDvJ9jj6K0lCe0Sk-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Slide Connection" vertex="1">
-          <mxGeometry height="80" width="160" x="-80" y="830" as="geometry" />
+          <mxGeometry height="80" width="160" x="-50" y="830" as="geometry" />
         </mxCell>
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Add Option for multiple possible paths here to improve exploration" vertex="1">
           <mxGeometry height="100" width="170" x="-690" y="280" as="geometry" />
@@ -273,11 +276,14 @@
         <mxCell id="30iYrzms-v5YuwSfFu6Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Melted cranes for lifting boxes / materials" vertex="1">
           <mxGeometry height="80" width="160" x="290" y="600" as="geometry" />
         </mxCell>
+        <mxCell id="eOBzbAkfB7YDOXfISsSm-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Something Special that can be done here after getting the bubble wand" vertex="1">
+          <mxGeometry height="30" width="160" x="110" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XG1QH4YMuowNQQml_kx5" name="2nd Floor">
-    <mxGraphModel dx="2560" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1705" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +389,7 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pipe Puzzle with Richochet Blob Sollution" vertex="1">
           <mxGeometry height="80" width="160" x="-627" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Elevator between 2 and 3" vertex="1">
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Elevator between 2 and 3&lt;div&gt;(Platforming Challenge that uses the bounce bubbles and hints at what ricochet bubbles can do)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="116" y="370" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Platforming Room Withought Bubbled Wand (that is much easier with)" vertex="1">
@@ -397,9 +403,6 @@
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to Divert previous rooms sticky bubble mixture below" vertex="1">
           <mxGeometry height="80" width="160" x="-70" y="490" as="geometry" />
-        </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd Floor Slide Entrance" vertex="1">
-          <mxGeometry height="80" width="160" x="296" y="715" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combat Challenge with Richochet Bubbles" vertex="1">
           <mxGeometry height="80" width="160" x="-437" y="720" as="geometry" />
@@ -432,7 +435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KM2FwEeRWLSpxyGYF6rC" name="3rd Floor">
-    <mxGraphModel dx="744" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="387" dy="501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,10 +466,19 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pool Below" vertex="1">
           <mxGeometry height="190" width="340" x="597" y="432" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-4" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Puzzle to Clear Elevator 2 to make sure it can go all the way to level 3&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="966" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-5" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-7" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reminder of Richochet Bubbles with dodging automatic canons using the bounce bubbles" vertex="1">
           <mxGeometry height="80" width="160" x="784" y="202" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -499,8 +511,14 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bubble Wand Room and catch enemy puzzle" vertex="1">
           <mxGeometry height="80" width="160" x="777" y="542" as="geometry" />
         </mxCell>
+        <mxCell id="hFw57SBCniJnqrnvEBla-1" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-3" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="acj-GW1QuUsDgrYQeVnU-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Elevator between 2 and 3" vertex="1">
-          <mxGeometry height="80" width="160" x="1148" y="82" as="geometry" />
+          <mxGeometry height="80" width="160" x="1158" y="80" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-62" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-58" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -520,8 +538,11 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bounce Across Giant Bubbles&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="336" x="1148" y="754" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="964" y="202" as="geometry" />
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-6" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mixing room Puzzle&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(You can make sticky bubbles or&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="970" y="200" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to Activate Waterslide and 3rd Floor Slide Entrance" vertex="1">
           <mxGeometry height="80" width="160" x="1148" y="427" as="geometry" />
@@ -550,8 +571,8 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Slightly More complex Bounce Puzzle" vertex="1">
           <mxGeometry height="80" width="160" x="787" y="324.5" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="598" y="202" as="geometry" />
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ricochet Mixture Below&lt;div&gt;Pipe Puzzle to fill the Ricochet bubble Mixture Pool&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="592" y="206" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-72" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-40" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -571,11 +592,20 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="598" y="323.25" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-8" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Room that Requires Ricochet Bubble mixture to continue&lt;div&gt;(Opens route to Elevator)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="784" y="80" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="594" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-2" edge="1" parent="1" source="acj-GW1QuUsDgrYQeVnU-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acj-GW1QuUsDgrYQeVnU-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Redirection Puzzle that uses the bubble wand.&lt;/u&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1158" y="202" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
