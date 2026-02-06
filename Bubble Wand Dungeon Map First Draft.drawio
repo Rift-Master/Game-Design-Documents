@@ -469,17 +469,8 @@
         <mxCell id="ei67lUYLcxZ7moWunTBn-2" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="AGDiZMeD1Ij1h-akrvzr-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vent Maze" vertex="1">
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vent Maze&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(You can stop pipes from turning with a sticky bubble)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="780" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to Pipes and Filtration" vertex="1">
-          <mxGeometry height="80" width="160" x="594" y="752" as="geometry" />
-        </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="594" y="752" as="geometry" />
-        </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="597" y="647" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pool Below" vertex="1">
           <mxGeometry height="190" width="340" x="597" y="432" as="geometry" />
@@ -517,8 +508,10 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="407" y="213" as="geometry" />
         </mxCell>
-        <mxCell id="W1agI5bIaIRO9DxZ-KdF-8" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-8" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W1agI5bIaIRO9DxZ-KdF-8" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AGDiZMeD1Ij1h-akrvzr-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678" y="647" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to Get Flushed Down" vertex="1">
           <mxGeometry height="80" width="160" x="601" y="540" as="geometry" />
@@ -677,19 +670,25 @@
           <mxGeometry height="80" width="160" x="404" y="498" as="geometry" />
         </mxCell>
         <mxCell id="JmhSMOLRj7OO7PKkp4mp-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combat Encounters using the 3 available bubbles" vertex="1">
-          <mxGeometry height="80" width="160" x="594" y="750" as="geometry" />
+          <mxGeometry height="80" width="160" x="592" y="784" as="geometry" />
         </mxCell>
         <mxCell id="JmhSMOLRj7OO7PKkp4mp-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Security Room 2 (Mid boss rematch but it is much easier now)" vertex="1">
           <mxGeometry height="80" width="160" x="1146" y="659" as="geometry" />
         </mxCell>
+        <mxCell id="F5MBegwQBne96govIHqM-4" edge="1" parent="1" source="AGDiZMeD1Ij1h-akrvzr-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AGDiZMeD1Ij1h-akrvzr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sticky Bubble Combat Room" vertex="1">
-          <mxGeometry height="80" width="160" x="597" y="650" as="geometry" />
+          <mxGeometry height="80" width="160" x="579" y="650" as="geometry" />
         </mxCell>
         <mxCell id="F5MBegwQBne96govIHqM-1" edge="1" parent="1" source="AGDiZMeD1Ij1h-akrvzr-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F5MBegwQBne96govIHqM-2" edge="1" parent="1" source="AGDiZMeD1Ij1h-akrvzr-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="JmhSMOLRj7OO7PKkp4mp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AGDiZMeD1Ij1h-akrvzr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sticky Bubble Enemy Puzzle Room (Vent Maze Elements)" vertex="1">
-          <mxGeometry height="80" width="160" x="787" y="775" as="geometry" />
+          <mxGeometry height="80" width="160" x="782" y="784" as="geometry" />
         </mxCell>
         <mxCell id="h8nm1XyUP1oHEEF3KftW-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Regular Sticky Bubble Puzzle Room" vertex="1">
           <mxGeometry height="80" width="160" x="444" y="1109" as="geometry" />
