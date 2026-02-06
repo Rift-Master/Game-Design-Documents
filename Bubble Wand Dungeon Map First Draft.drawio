@@ -293,8 +293,11 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Water Slide Down.&lt;div&gt;(Boss Room hinted below)&lt;/div&gt;" vertex="1">
           <mxGeometry height="310" width="340" x="114" y="715" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entrance&lt;div&gt;(Reception) (Below)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="-80" y="1038" as="geometry" />
+        <mxCell id="U96-UUhYeNXg4xAxndNj-3" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simple Floating Puzzle where link is pushed in an extra strength bubble around by fans." vertex="1">
+          <mxGeometry height="80" width="160" x="-80" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="-260" y="1040" as="geometry" />
@@ -362,7 +365,10 @@
         <mxCell id="vGqkC-DNC5OJXEhgjryR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Stairs up&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-80" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="vGqkC-DNC5OJXEhgjryR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Bubble Puzzle Reminder&lt;/u&gt;" vertex="1">
+        <mxCell id="U96-UUhYeNXg4xAxndNj-2" edge="1" parent="1" source="vGqkC-DNC5OJXEhgjryR-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGqkC-DNC5OJXEhgjryR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Bubble Puzzle Reminder&lt;/u&gt;&lt;div&gt;&lt;u&gt;(Later Geyser with the Ricochet Mixture)&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-437" y="830" as="geometry" />
         </mxCell>
         <mxCell id="vGqkC-DNC5OJXEhgjryR-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle that uses both" vertex="1">
