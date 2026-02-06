@@ -16,7 +16,7 @@
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Boss Door Blocked by Giant Fan&lt;div&gt;(Chemical Filtration)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="110" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Locked Door&lt;/u&gt;" vertex="1">
+        <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Locked Door (Geyser to reach Room above once the richochet bubble is Recieved)&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-260" y="940" as="geometry" />
         </mxCell>
         <mxCell id="3fhuuDvJ9jj6K0lCe0Sk-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to Pipes and Filtration" vertex="1">
@@ -452,10 +452,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vent Maze Above Entrance" vertex="1">
-          <mxGeometry height="80" width="160" x="961" y="754" as="geometry" />
+          <mxGeometry height="80" width="160" x="970" y="754" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="774" y="752" as="geometry" />
+          <mxGeometry height="80" width="160" x="777" y="754" as="geometry" />
         </mxCell>
         <mxCell id="vM2XoCctZ5VxvC4-c73p-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="160" x="777" y="650" as="geometry" />
@@ -607,8 +607,8 @@
         <mxCell id="vM2XoCctZ5VxvC4-c73p-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hole Leading to Roof" vertex="1">
           <mxGeometry height="80" width="160" x="1423" y="754" as="geometry" />
         </mxCell>
-        <mxCell id="vM2XoCctZ5VxvC4-c73p-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="964" y="652" as="geometry" />
+        <mxCell id="vM2XoCctZ5VxvC4-c73p-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stairs Down and Up" vertex="1">
+          <mxGeometry height="80" width="160" x="970" y="650" as="geometry" />
         </mxCell>
         <mxCell id="W1agI5bIaIRO9DxZ-KdF-5" edge="1" parent="1" source="vM2XoCctZ5VxvC4-c73p-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vM2XoCctZ5VxvC4-c73p-31" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -641,10 +641,22 @@
           <mxGeometry height="80" width="160" x="1158" y="202" as="geometry" />
         </mxCell>
         <mxCell id="ENslB9-tO8t64q9p4xAo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reubgoldberg Ricochet Puzzle (that requires pipe and switch flipping)" vertex="1">
-          <mxGeometry height="80" width="171" x="136" y="136" as="geometry" />
+          <mxGeometry height="80" width="171" x="145.5" y="141" as="geometry" />
         </mxCell>
         <mxCell id="JmhSMOLRj7OO7PKkp4mp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combat Encounters that can be finished in one go if Ricochet Bubbles are arranged in the right way" vertex="1">
-          <mxGeometry height="80" width="160" x="141.5" y="251" as="geometry" />
+          <mxGeometry height="80" width="160" x="145.5" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="JmhSMOLRj7OO7PKkp4mp-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pipe Maze" vertex="1">
+          <mxGeometry height="80" width="160" x="151" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JmhSMOLRj7OO7PKkp4mp-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Using a flush and a geyser to redirect pipes but and down the 2nd and 3rd Floor" vertex="1">
+          <mxGeometry height="80" width="160" x="151" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="JmhSMOLRj7OO7PKkp4mp-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combat Encounters using the 3 available bubbles" vertex="1">
+          <mxGeometry height="80" width="160" x="700" y="872" as="geometry" />
+        </mxCell>
+        <mxCell id="JmhSMOLRj7OO7PKkp4mp-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Security Room 2 (Mid boss rematch but it is much easier now)" vertex="1">
+          <mxGeometry height="80" width="160" x="1148" y="655" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
