@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.3.7" pages="4">
   <diagram name="1st Floor" id="nqetl4J-ewGsVW07dvhG">
-    <mxGraphModel dx="1732" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,8 +428,14 @@
         <mxCell id="rSUGWSTySAm8FVGtyjtD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Puzzle to dodge moving Machinery" vertex="1">
           <mxGeometry height="80" width="160" x="-75" y="720" as="geometry" />
         </mxCell>
+        <mxCell id="Ftmr-T2gfPFPi3_nVIPd-1" edge="1" parent="1" source="rSUGWSTySAm8FVGtyjtD-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="vGqkC-DNC5OJXEhgjryR-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ftmr-T2gfPFPi3_nVIPd-2" edge="1" parent="1" source="rSUGWSTySAm8FVGtyjtD-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="rSUGWSTySAm8FVGtyjtD-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rSUGWSTySAm8FVGtyjtD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Moving Machinery AND Richochet Bubbles" vertex="1">
-          <mxGeometry height="80" width="160" x="-75" y="608.75" as="geometry" />
+          <mxGeometry height="80" width="160" x="-70" y="610" as="geometry" />
         </mxCell>
         <mxCell id="onRvmvor4adT-Xgw70-3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="????" vertex="1">
           <mxGeometry height="80" width="160" x="110" y="490" as="geometry" />
@@ -465,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KM2FwEeRWLSpxyGYF6rC" name="3rd Floor">
-    <mxGraphModel dx="744" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
