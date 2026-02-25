@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.3.7" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.3.8" pages="4">
   <diagram name="1st Floor" id="nqetl4J-ewGsVW07dvhG">
-    <mxGraphModel dx="2587" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="VEHgNk_dYbkTDM_UZs3S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Pipe Puzzle where orientation leads to a different room&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="VEHgNk_dYbkTDM_UZs3S-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Introduction to falling platorms (given 2 directions to move)&lt;/u&gt;" vertex="1">
+        <mxCell id="VEHgNk_dYbkTDM_UZs3S-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introduction to falling platorms (given 2 directions to move)" vertex="1">
           <mxGeometry height="80" width="160" x="-440" y="612.5" as="geometry" />
         </mxCell>
         <mxCell id="VEHgNk_dYbkTDM_UZs3S-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Combat Encounter&amp;nbsp;&lt;/u&gt;&lt;div&gt;&lt;u&gt;Map&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;(You can use pipes to control the enemy swarms)&lt;/u&gt;&lt;/div&gt;" vertex="1">
@@ -278,6 +278,9 @@
         </mxCell>
         <mxCell id="eOBzbAkfB7YDOXfISsSm-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Something Special that can be done here after getting the bubble wand" vertex="1">
           <mxGeometry height="30" width="160" x="110" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc28plUDXCTsPcUSj7ZK-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Transparent Walls" vertex="1">
+          <mxGeometry height="45" width="30" x="-90" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
