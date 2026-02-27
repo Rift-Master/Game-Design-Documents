@@ -1,11 +1,18 @@
 Game Concepts
 
-Fish in a barrel. A joke mini-game created over a few days. It started out as an original fishing game with the twist that players then threw
-the fish up in the air after they reel it in and shoot it several times with a pistol to cook it.
-The amount of accurate shots made in a short period of time determined how well the fish was reviewed on "Finstagram" from 1 to 5 stars
+Fish in a barrel. 
+A joke mini-game created over a few days as a combination of programming a fun fishing minigame and a shooting gallery game.
+The player starts out thinking they are playing your average fishing game where they really the fish in while staying cautious of the tension in the fishing line.
+The twist however is when the player is about to get the fish out the water, the character throws the fish up and shoot it several times with a special revolver that cooks 
+the fish as it gets shot with little targets appearing all over it's body.
+The amount of accurate shots made in the shortest period of time determined how well the fish was reviewed on "Finstagram" from 1 to 5 stars.
+
+Development was fun espectially for using more complex math equations to get the perfect fishing line angle using more complex math equations in C# that I was typically used to with real time line renderers.
 
 Punch Em Up - Another vertical slice created to help teach and practice fighting game inputs on a game pad. The player takes control of an
-old bouncer who constantly punches from light to medium to heavy attacks on the game pad 
+old bouncer who constantly punches from light to medium to heavy attacks on the game pad .
+The story while not a very important aspect of the game saw a hired strong arm beating a man who was possessed by a building through several different stories of a building in an antempt to purge the demon as 
+hell itself was muscling into the territory of a local crime family.
 
 Kid Combo - A pet project of a single screen new age beat em up. Play as the God of Animated Violence returning from the dead to kill the rest of his.
 The main mechanics of this game were creating a character who's fought more effectively if the light and heavy attacks were entered in a rhthym
