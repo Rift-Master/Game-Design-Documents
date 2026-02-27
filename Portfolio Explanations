@@ -9,10 +9,17 @@ The amount of accurate shots made in the shortest period of time determined how 
 
 Development was fun espectially for using more complex math equations to get the perfect fishing line angle using more complex math equations in C# that I was typically used to with real time line renderers.
 
+
+_________
+
 Punch Em Up - Another vertical slice created to help teach and practice fighting game inputs on a game pad. The player takes control of an
-old bouncer who constantly punches from light to medium to heavy attacks on the game pad .
+old bouncer who constantly punches from light to medium to heavy attacks on the game pad. To break through a ceiling you would have to input a Shoryuken command and if wanted to active a switch you would have to bounce the
+character off the button with a Hadouken command.
+The dash would be performed with a Tatsumaki motion.
 The story while not a very important aspect of the game saw a hired strong arm beating a man who was possessed by a building through several different stories of a building in an antempt to purge the demon as 
 hell itself was muscling into the territory of a local crime family.
+
+________
 
 Kid Combo - A pet project of a single screen new age beat em up. Play as the God of Animated Violence returning from the dead to kill the rest of his.
 The main mechanics of this game were creating a character who's fought more effectively if the light and heavy attacks were entered in a rhthym
@@ -27,27 +34,45 @@ soda.
 
 The theme of the game was on television genres (Sports, Musical, Animal Channel, History Channel, Sitcoms, Silent Movies, Cooking Shows, Commercials, Educational Television) and the (with the final boss being the News)
 
+
+________________________
+
+
 The World's End - A card game based on the movie by Edgar Wright in which players go on a pub crawl and get over run by . 
 The game's entire concept revolved managing resources and combat mechanics between friends. At each bar a special event would occur with an aspect that would effect combat such as a 
+
+__________________________
 
 Plants vs. Zombies- A card gamemeant to emulate where one player slowly moves Zombie cards and pieces forward while the other places plants
 to defend against the zombies.
 
+___________________________
+
 A Dungeon Crawler Boardgame where players took the role of superheroes. They could customize their own powers and abilities and even the layout of the board as each piece was a comic book panel that they would have to navigate
 from the top left to the bottom right with the encounters and traps being tied to the squares on each panel.
+
+_____________________________
 
 A Theatre Game-
 Similar to whose line is it anyway a game master is given scenes that the players.
 
+_______________________________
 Current UI Design Project
 -Project Attache. Meant to emulate the (technical term for wooden offices) as main menu UI for a Fictional Game with elements of (UI that uses a physical object you interact with)
 -The Different Menus
 -Printing the tickiertape out
 
+_________________________________
+
 An escape room where the participants rather than seeking to escape the room searched for their inheritance from a recently departed Great Uncle
 by using locating the safe and the combination from clues left by old recordings on tape recorder he made before he died talking about his important
 moments and . Public Domain comic book art and characters from the Golden Age was used and slightly edited.
 
+__________________________________
+
+
+Grafitti Fighters
+Developing a fake Mobile App for characters to speak with eachother.
 
 Action Script Set in the dessert
 Submission for Writing Competitions
