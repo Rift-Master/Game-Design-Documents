@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.5.3">
+  <diagram name="ページ-1" id="j4VSBGNdrRKMCj1UqYl5">
+    <mxGraphModel dx="905" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ClevksA8Y5mVYSND0p87-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mario Level&lt;div&gt;- Introduce a Power Up&lt;/div&gt;&lt;div&gt;-Introduce an Enemy&lt;/div&gt;&lt;div&gt;-Show how power up interacts with preestablished enemies&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rocket Mario&lt;div&gt;-Needs to charge&lt;br&gt;&lt;div&gt;-Burst Forward&lt;/div&gt;&lt;div&gt;-Burst Up&lt;/div&gt;&lt;/div&gt;&lt;div&gt;-Can follow a track&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rocket Can Burst through Blocks.&lt;div&gt;-Can’t be hurt for it’s short burst unless it hits spikes&lt;/div&gt;&lt;div&gt;-Can Destroy Thwomps&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots a small fireworks blast out" vertex="1">
+          <mxGeometry height="80" width="160" x="40" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots up to land on platform above" vertex="1">
+          <mxGeometry height="80" width="160" x="210" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots up&lt;div&gt;Falls Right&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="210" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots through tons of enemies and feels satisfying&lt;div&gt;(The enemies are all the types that get instantly knocked out by the blast)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="410" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots up through gap in spikes from a moving platformn" vertex="1">
+          <mxGeometry height="80" width="160" x="10" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots through blocks through thin hallway" vertex="1">
+          <mxGeometry height="80" width="160" x="410" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoots through blocks while falling to get (to get a coin if it’s timed right)" vertex="1">
+          <mxGeometry height="80" width="160" x="10" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bounce pad.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Shoot up at the height of the bounce pad to see if you can reach the bounce pad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="410" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoot up through blocks hidden in a corner.&lt;div&gt;(Hinted by spikes you wouldn’t naturally aim for with the far left corner without spikes and the smallest opening)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="160" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoot up, fall right, shoot right. (To show the distance you can travel)" vertex="1">
+          <mxGeometry height="75" width="160" x="410" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jump up shoot right hit the Flagpole" vertex="1">
+          <mxGeometry height="80" width="160" x="510" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jump and shoot up to get a better distance for a platform just out of reach" vertex="1">
+          <mxGeometry height="80" width="160" x="610" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoot left towards a bounce pad" vertex="1">
+          <mxGeometry height="80" width="160" x="610" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoot left through blocks at the right height of the bounce pad" vertex="1">
+          <mxGeometry height="80" width="160" x="200" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Goal Pole" vertex="1">
+          <mxGeometry height="80" width="160" x="620" y="547.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ClevksA8Y5mVYSND0p87-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shoot up through smaller gap in spikes" vertex="1">
+          <mxGeometry height="80" width="160" x="200" y="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
